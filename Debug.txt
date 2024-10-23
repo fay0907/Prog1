@@ -1,0 +1,8 @@
+Shotrange = 0 
+dus het kan niks want de delta.magnitude altijd groter is.
+
+targetTag = Playerr
+
+Hij heeft een typ fout 
+ _targettag = enemy 
+de tag wordt enemy maar hij hoort player te zijn.
